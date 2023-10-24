@@ -4,6 +4,8 @@ package tests;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.io.FileHandler;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
@@ -35,7 +37,7 @@ public class BaseTest {
 
     @BeforeTest
     public void LoadApplications() {
-    	driver = new ChromeDriver();
+    	driver = new FirefoxDriver();
         driver.manage().window().maximize();
         base_page = new BasePage();
         base_page.setDriver(driver);
