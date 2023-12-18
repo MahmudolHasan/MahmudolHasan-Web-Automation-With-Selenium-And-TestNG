@@ -9,7 +9,7 @@ This README overviews a web automation testing project for the SauceDemo web app
 - [Test Cases](#test-cases)
 - [Test Execution](#test-execution)
 - [Report](#report)
-- [Contact](#contact)
+
 
 ## Introduction
 This web automation testing project is designed to verify the functionality of the SauceDemo web application. Specifically, it covers two primary areas: 
@@ -53,14 +53,14 @@ The following test cases are covered in this web automation testing project:
 Execute the test scripts using TestNG. Run the tests against the URL [https://www.saucedemo.com/v1/index.html](https://www.saucedemo.com/v1/index.html).
 ## Reports
 ### TestNG Default Report
-After test execution, TestNG will generate detailed reports that include pass and fail results for each test case. These reports are  available in the project directory of the project. TestNG default test report files will be shared for review.
+After test execution, TestNG will generate detailed reports that include pass and fail results for each test case. These reports are  available in the project directory. TestNG default test report files will be shared for review.
 
 ### Extent Report 
-ExtentSaprk report can be found under resource folder in root.It contains a html file detaling about the tests.
+ExtentSaprk report can be found under the resource folder in the root. It contains an html file detailing the tests.
 
 ### Allure Report 
 
-Allure report to be grenrated, allure must be installed in the system,. And run necessary commands to generate the report.
+For the allure report to be generated, allure must be installed in the system. And run the necessary commands to generate the report.
 
 ### ScreenShot of Extent Report
-!(Extent Report Screenshot)[../reports/Screenshot (49).png]
+![Extent Report Screenshot](reports/extentSS.png)
