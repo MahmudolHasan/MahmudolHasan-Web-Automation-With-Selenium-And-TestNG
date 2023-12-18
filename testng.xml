@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.saucelab.utils.ExtentReportListener"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="H:/Intellij/Projects/WebAutomationWithPOM_ParallelTesting">
+        <classes>
+            <class name="com.sauce.testscipts.HomePageTest">
+                <methods>
+                    <include name="addItemToCartTest"/>
+                </methods>
+            </class>
+            <class name="com.sauce.testscipts.LoginPageTest">
+                <methods>
+                    <include name="loginWithValidCredentialTest"/>
+                    <include name="validateLoginPageTitle"/>
+                    <include name="sidePictureTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

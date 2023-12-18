@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.74121404" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3ca6ebe-f23e-4c0f-a87e-f2235a6a9da2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2YT9bvj76ECQAHauDRC8VnEoSKS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/Intellij/Projects/SQAProject01&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Intellij\Projects\WebAutomationWithPOM_ParallelTesting\src\main\java\com\saucelab\testData" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.H:/Intellij/Projects/WebAutomationWithPOM_ParallelTesting/testng.xml">
+    <configuration name="H:/Intellij/Projects/WebAutomationWithPOM_ParallelTesting/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebAutomationWithPOM_ParallelTesting" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.loginWithValidCredentialTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebAutomationWithPOM_ParallelTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sauce.testscipts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sauce.testscipts" />
+      <option name="MAIN_CLASS_NAME" value="com.sauce.testscipts.LoginPageTest" />
+      <option name="METHOD_NAME" value="loginWithValidCredentialTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.validateLoginPageTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebAutomationWithPOM_ParallelTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sauce.testscipts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sauce.testscipts" />
+      <option name="MAIN_CLASS_NAME" value="com.sauce.testscipts.LoginPageTest" />
+      <option name="METHOD_NAME" value="validateLoginPageTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductPageTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebAutomationWithPOM_ParallelTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.ProductPageTestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductPageTestCase.addToCartTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebAutomationWithPOM_ParallelTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.ProductPageTestCase" />
+      <option name="METHOD_NAME" value="addToCartTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.H:/Intellij/Projects/WebAutomationWithPOM_ParallelTesting/testng.xml" />
+        <item itemvalue="TestNG.LoginPageTest.loginWithValidCredentialTest" />
+        <item itemvalue="TestNG.LoginPageTest.validateLoginPageTitle" />
+        <item itemvalue="TestNG.ProductPageTestCase" />
+        <item itemvalue="TestNG.ProductPageTestCase.addToCartTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3ca6ebe-f23e-4c0f-a87e-f2235a6a9da2" name="Changes" comment="" />
+      <created>1700538782458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700538782458</updated>
+      <workItem from="1700538783015" duration="4334000" />
+      <workItem from="1700552749194" duration="2419000" />
+      <workItem from="1700571344838" duration="5570000" />
+      <workItem from="1700628272572" duration="16541000" />
+      <workItem from="1700706680711" duration="5455000" />
+      <workItem from="1700817903632" duration="11796000" />
+      <workItem from="1700875132893" duration="3990000" />
+      <workItem from="1700893366952" duration="3827000" />
+      <workItem from="1700907904469" duration="549000" />
+      <workItem from="1700971511156" duration="1595000" />
+      <workItem from="1701015768484" duration="1294000" />
+      <workItem from="1701701412777" duration="4655000" />
+      <workItem from="1701966015382" duration="82000" />
+      <workItem from="1702182043752" duration="105000" />
+      <workItem from="1702364817029" duration="1029000" />
+      <workItem from="1702366729743" duration="1486000" />
+      <workItem from="1702839935415" duration="2222000" />
+      <workItem from="1702874658606" duration="4982000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

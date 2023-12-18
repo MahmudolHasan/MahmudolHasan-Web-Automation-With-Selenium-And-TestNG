@@ -1,0 +1,839 @@
+[INFO ] 2023-11-25 13:39:16.842 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-11-25 13:39:16.865 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-11-25 13:39:16.888 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-11-25 13:39:16.904 [main] WebListener - Implicit timeout!
+[INFO ] 2023-11-25 13:39:16.905 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-11-25 13:39:18.393 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-11-25 13:39:18.455 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (f032f24933fda9d73098374a9ecb16bd)] -> id: user-name]}
+[INFO ] 2023-11-25 13:39:18.455 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-11-25 13:39:18.548 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-11-25 13:39:18.578 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (f032f24933fda9d73098374a9ecb16bd)] -> id: password]}
+[INFO ] 2023-11-25 13:39:18.578 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-11-25 13:39:18.647 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-11-25 13:39:18.676 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (f032f24933fda9d73098374a9ecb16bd)] -> id: login-button]}
+[INFO ] 2023-11-25 13:39:18.676 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (f032f24933fda9d73098374a9ecb16bd)] -> id: login-button]
+[ERROR] 2023-11-25 13:39:43.775 [main] WebListener - Exception caught!
+[INFO ] 2023-11-25 13:39:43.775 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-11-25 13:39:44.313 [main] WebListener - Test execution completed!Driver Quited!
+[INFO ] 2023-11-25 13:39:46.113 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-11-25 13:39:46.133 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-11-25 13:39:46.157 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-11-25 13:39:46.174 [main] WebListener - Implicit timeout!
+[INFO ] 2023-11-25 13:39:46.174 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-11-25 13:39:46.996 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-11-25 13:39:47.295 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (f595b2a07d92662485aeca2e478fcea5)] -> id: user-name]}
+[INFO ] 2023-11-25 13:39:47.296 [main] WebListener - Keys to send : [locked_out_user]
+[INFO ] 2023-11-25 13:39:47.516 [main] WebListener - Keys  send : [locked_out_user]
+[INFO ] 2023-11-25 13:39:47.627 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (f595b2a07d92662485aeca2e478fcea5)] -> id: password]}
+[INFO ] 2023-11-25 13:39:47.628 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-11-25 13:39:47.795 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-11-25 13:39:47.839 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (f595b2a07d92662485aeca2e478fcea5)] -> id: login-button]}
+[INFO ] 2023-11-25 13:39:47.843 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (f595b2a07d92662485aeca2e478fcea5)] -> id: login-button]
+[INFO ] 2023-11-25 13:39:47.944 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (f595b2a07d92662485aeca2e478fcea5)] -> id: login-button]
+[INFO ] 2023-11-25 13:39:52.976 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (f595b2a07d92662485aeca2e478fcea5)] -> class name: bot_column]}
+[INFO ] 2023-11-25 13:39:53.316 [main] WebListener - Test execution completed!Driver Quited!
+[INFO ] 2023-11-25 13:39:54.826 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-11-25 13:39:54.841 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-11-25 13:39:54.854 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-11-25 13:39:54.865 [main] WebListener - Implicit timeout!
+[INFO ] 2023-11-25 13:39:54.865 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-11-25 13:39:56.374 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-11-25 13:39:56.404 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (d234b0fa5ac52ad0957bed4ad66c2be7)] -> id: user-name]}
+[INFO ] 2023-11-25 13:39:56.404 [main] WebListener - Keys to send : [problem_user]
+[INFO ] 2023-11-25 13:39:56.506 [main] WebListener - Keys  send : [problem_user]
+[INFO ] 2023-11-25 13:39:56.529 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (d234b0fa5ac52ad0957bed4ad66c2be7)] -> id: password]}
+[INFO ] 2023-11-25 13:39:56.529 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-11-25 13:39:56.605 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-11-25 13:39:56.626 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (d234b0fa5ac52ad0957bed4ad66c2be7)] -> id: login-button]}
+[INFO ] 2023-11-25 13:39:56.627 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (d234b0fa5ac52ad0957bed4ad66c2be7)] -> id: login-button]
+[INFO ] 2023-11-25 13:39:57.319 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (d234b0fa5ac52ad0957bed4ad66c2be7)] -> id: login-button]
+[ERROR] 2023-11-25 13:40:17.325 [main] WebListener - Exception caught!
+[INFO ] 2023-11-25 13:40:17.325 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-11-25 13:40:17.706 [main] WebListener - Test execution completed!Driver Quited!
+[INFO ] 2023-11-25 13:40:19.196 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-11-25 13:40:19.201 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-11-25 13:40:19.201 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-11-25 13:40:19.217 [main] WebListener - Implicit timeout!
+[INFO ] 2023-11-25 13:40:19.217 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-11-25 13:40:20.753 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-11-25 13:40:20.785 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (10f453f7aaa00f7cb48bde3d29df372d)] -> id: user-name]}
+[INFO ] 2023-11-25 13:40:20.785 [main] WebListener - Keys to send : [performance_glitch_user]
+[INFO ] 2023-11-25 13:40:20.885 [main] WebListener - Keys  send : [performance_glitch_user]
+[INFO ] 2023-11-25 13:40:20.924 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (10f453f7aaa00f7cb48bde3d29df372d)] -> id: password]}
+[INFO ] 2023-11-25 13:40:20.924 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-11-25 13:40:20.996 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-11-25 13:40:21.019 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (10f453f7aaa00f7cb48bde3d29df372d)] -> id: login-button]}
+[INFO ] 2023-11-25 13:40:21.019 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (10f453f7aaa00f7cb48bde3d29df372d)] -> id: login-button]
+[INFO ] 2023-11-25 13:40:36.424 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (10f453f7aaa00f7cb48bde3d29df372d)] -> id: login-button]
+[ERROR] 2023-11-25 13:40:56.466 [main] WebListener - Exception caught!
+[INFO ] 2023-11-25 13:40:56.467 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-11-25 13:40:56.821 [main] WebListener - Test execution completed!Driver Quited!
+[INFO ] 2023-12-12 13:41:35.338 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-12 13:41:35.384 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-12 13:41:35.411 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-12 13:41:35.428 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-12 13:41:35.428 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-12 13:41:37.160 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-12 13:41:37.295 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (f792f128f102d09a9e65fdbbea36b555)] -> id: user-name]}
+[INFO ] 2023-12-12 13:41:37.295 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-12-12 13:41:37.410 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-12-12 13:41:37.441 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (f792f128f102d09a9e65fdbbea36b555)] -> id: password]}
+[INFO ] 2023-12-12 13:41:37.441 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-12 13:41:37.511 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-12 13:41:37.544 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (f792f128f102d09a9e65fdbbea36b555)] -> id: login-button]}
+[INFO ] 2023-12-12 13:41:37.545 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (f792f128f102d09a9e65fdbbea36b555)] -> id: login-button]
+[INFO ] 2023-12-12 13:41:50.096 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (f792f128f102d09a9e65fdbbea36b555)] -> id: login-button]
+[ERROR] 2023-12-12 13:42:10.260 [main] WebListener - Exception caught!
+[INFO ] 2023-12-12 13:42:10.260 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-12 13:42:10.800 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-12 13:42:12.640 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-12 13:42:12.652 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-12 13:42:12.675 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-12 13:42:12.691 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-12 13:42:12.692 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-12 13:42:13.515 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-12 13:42:13.762 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (fa69886712fcc96fbef9736f5ce485d3)] -> id: user-name]}
+[INFO ] 2023-12-12 13:42:13.762 [main] WebListener - Keys to send : [locked_out_user]
+[INFO ] 2023-12-12 13:42:13.878 [main] WebListener - Keys  send : [locked_out_user]
+[INFO ] 2023-12-12 13:42:13.904 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (fa69886712fcc96fbef9736f5ce485d3)] -> id: password]}
+[INFO ] 2023-12-12 13:42:13.904 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-12 13:42:13.985 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-12 13:42:14.016 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (fa69886712fcc96fbef9736f5ce485d3)] -> id: login-button]}
+[INFO ] 2023-12-12 13:42:14.016 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (fa69886712fcc96fbef9736f5ce485d3)] -> id: login-button]
+[INFO ] 2023-12-12 13:42:14.096 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (fa69886712fcc96fbef9736f5ce485d3)] -> id: login-button]
+[INFO ] 2023-12-12 13:42:19.127 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (fa69886712fcc96fbef9736f5ce485d3)] -> class name: bot_column]}
+[INFO ] 2023-12-12 13:42:19.469 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-12 13:42:22.308 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-12 13:42:22.327 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-12 13:42:22.358 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-12 13:42:22.376 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-12 13:42:22.377 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-12 13:42:23.140 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-12 13:42:24.925 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (83920c82210e5a880040e5f4e9b5f049)] -> id: user-name]}
+[INFO ] 2023-12-12 13:42:24.961 [main] WebListener - Keys to send : [problem_user]
+[INFO ] 2023-12-12 13:42:25.052 [main] WebListener - Keys  send : [problem_user]
+[INFO ] 2023-12-12 13:42:25.077 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (83920c82210e5a880040e5f4e9b5f049)] -> id: password]}
+[INFO ] 2023-12-12 13:42:25.077 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-12 13:42:25.147 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-12 13:42:25.174 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (83920c82210e5a880040e5f4e9b5f049)] -> id: login-button]}
+[INFO ] 2023-12-12 13:42:25.175 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (83920c82210e5a880040e5f4e9b5f049)] -> id: login-button]
+[INFO ] 2023-12-12 13:42:27.744 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (83920c82210e5a880040e5f4e9b5f049)] -> id: login-button]
+[ERROR] 2023-12-12 13:42:47.783 [main] WebListener - Exception caught!
+[INFO ] 2023-12-12 13:42:47.783 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-12 13:42:48.400 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-12 13:42:50.104 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-12 13:42:50.117 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-12 13:42:50.130 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-12 13:42:50.161 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-12 13:42:50.162 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-12 13:42:51.400 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-12 13:42:51.432 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (11367f20d3ace7c9216b06719cafa668)] -> id: user-name]}
+[INFO ] 2023-12-12 13:42:51.432 [main] WebListener - Keys to send : [performance_glitch_user]
+[INFO ] 2023-12-12 13:42:51.552 [main] WebListener - Keys  send : [performance_glitch_user]
+[INFO ] 2023-12-12 13:42:51.579 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (11367f20d3ace7c9216b06719cafa668)] -> id: password]}
+[INFO ] 2023-12-12 13:42:51.579 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-12 13:42:51.663 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-12 13:42:51.688 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (11367f20d3ace7c9216b06719cafa668)] -> id: login-button]}
+[INFO ] 2023-12-12 13:42:51.688 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (11367f20d3ace7c9216b06719cafa668)] -> id: login-button]
+[INFO ] 2023-12-12 13:43:06.848 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (11367f20d3ace7c9216b06719cafa668)] -> id: login-button]
+[ERROR] 2023-12-12 13:43:27.014 [main] WebListener - Exception caught!
+[INFO ] 2023-12-12 13:43:27.014 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-12 13:43:29.453 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:25:21.423 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:25:21.465 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:25:21.491 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:25:21.506 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:25:21.507 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:25:22.196 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:25:22.273 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (8293b2dc01d9d6eca3fc04864a5549a4)] -> id: user-name]}
+[INFO ] 2023-12-18 01:25:22.273 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-12-18 01:25:22.436 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-12-18 01:25:22.474 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (8293b2dc01d9d6eca3fc04864a5549a4)] -> id: password]}
+[INFO ] 2023-12-18 01:25:22.474 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:25:22.545 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:25:22.575 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (8293b2dc01d9d6eca3fc04864a5549a4)] -> id: login-button]}
+[INFO ] 2023-12-18 01:25:22.575 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (8293b2dc01d9d6eca3fc04864a5549a4)] -> id: login-button]
+[INFO ] 2023-12-18 01:25:32.700 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (8293b2dc01d9d6eca3fc04864a5549a4)] -> id: login-button]
+[ERROR] 2023-12-18 01:25:52.854 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 01:25:52.854 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 01:25:53.448 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:25:55.326 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:25:55.345 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:25:55.366 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:25:55.383 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:25:55.384 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:25:56.653 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:25:56.686 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (83d537b7281ae962627072a0f2adc769)] -> id: user-name]}
+[INFO ] 2023-12-18 01:25:56.686 [main] WebListener - Keys to send : [locked_out_user]
+[INFO ] 2023-12-18 01:25:56.809 [main] WebListener - Keys  send : [locked_out_user]
+[INFO ] 2023-12-18 01:25:56.832 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (83d537b7281ae962627072a0f2adc769)] -> id: password]}
+[INFO ] 2023-12-18 01:25:56.833 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:25:56.905 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:25:56.932 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (83d537b7281ae962627072a0f2adc769)] -> id: login-button]}
+[INFO ] 2023-12-18 01:25:56.932 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (83d537b7281ae962627072a0f2adc769)] -> id: login-button]
+[INFO ] 2023-12-18 01:25:56.999 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (83d537b7281ae962627072a0f2adc769)] -> id: login-button]
+[INFO ] 2023-12-18 01:26:02.031 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (83d537b7281ae962627072a0f2adc769)] -> class name: bot_column]}
+[INFO ] 2023-12-18 01:26:02.423 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:26:04.440 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:26:04.453 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:26:04.465 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:26:04.474 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:26:04.474 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:26:05.776 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:26:05.809 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (5ddfe74a37b52467ad9f45f594b32db7)] -> id: user-name]}
+[INFO ] 2023-12-18 01:26:05.810 [main] WebListener - Keys to send : [problem_user]
+[INFO ] 2023-12-18 01:26:05.918 [main] WebListener - Keys  send : [problem_user]
+[INFO ] 2023-12-18 01:26:05.941 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (5ddfe74a37b52467ad9f45f594b32db7)] -> id: password]}
+[INFO ] 2023-12-18 01:26:05.941 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:26:06.013 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:26:06.034 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (5ddfe74a37b52467ad9f45f594b32db7)] -> id: login-button]}
+[INFO ] 2023-12-18 01:26:06.035 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (5ddfe74a37b52467ad9f45f594b32db7)] -> id: login-button]
+[INFO ] 2023-12-18 01:26:06.491 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (5ddfe74a37b52467ad9f45f594b32db7)] -> id: login-button]
+[ERROR] 2023-12-18 01:26:26.555 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 01:26:26.556 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 01:26:27.055 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:26:29.423 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:26:29.433 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:26:29.444 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:26:29.452 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:26:29.452 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:26:29.871 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:26:30.117 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (b20fcfb50453f1c9f8160331bfaca7d1)] -> id: user-name]}
+[INFO ] 2023-12-18 01:26:30.117 [main] WebListener - Keys to send : [performance_glitch_user]
+[INFO ] 2023-12-18 01:26:30.249 [main] WebListener - Keys  send : [performance_glitch_user]
+[INFO ] 2023-12-18 01:26:30.272 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (b20fcfb50453f1c9f8160331bfaca7d1)] -> id: password]}
+[INFO ] 2023-12-18 01:26:30.272 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:26:30.373 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:26:30.399 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (b20fcfb50453f1c9f8160331bfaca7d1)] -> id: login-button]}
+[INFO ] 2023-12-18 01:26:30.399 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (b20fcfb50453f1c9f8160331bfaca7d1)] -> id: login-button]
+[INFO ] 2023-12-18 01:26:50.971 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (b20fcfb50453f1c9f8160331bfaca7d1)] -> id: login-button]
+[ERROR] 2023-12-18 01:27:11.012 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 01:27:11.012 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 01:27:11.460 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:29:50.535 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:29:50.557 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:29:50.582 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:29:50.597 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:29:50.598 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:29:51.340 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:29:51.419 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (277084cec934bf17d38850760f39705c)] -> id: user-name]}
+[INFO ] 2023-12-18 01:29:51.419 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-12-18 01:29:51.524 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-12-18 01:29:51.560 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (277084cec934bf17d38850760f39705c)] -> id: password]}
+[INFO ] 2023-12-18 01:29:51.561 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:29:51.633 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:29:51.665 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (277084cec934bf17d38850760f39705c)] -> id: login-button]}
+[INFO ] 2023-12-18 01:29:51.665 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (277084cec934bf17d38850760f39705c)] -> id: login-button]
+[INFO ] 2023-12-18 01:29:56.664 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (277084cec934bf17d38850760f39705c)] -> id: login-button]
+[ERROR] 2023-12-18 01:30:16.755 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 01:30:16.755 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 01:30:17.834 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:30:19.937 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:30:19.960 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:30:19.985 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:30:19.998 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:30:19.998 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:30:20.753 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:30:21.012 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (624a45d964a598acd4d6caefe49c9e6b)] -> id: user-name]}
+[INFO ] 2023-12-18 01:30:21.013 [main] WebListener - Keys to send : [locked_out_user]
+[INFO ] 2023-12-18 01:30:21.117 [main] WebListener - Keys  send : [locked_out_user]
+[INFO ] 2023-12-18 01:30:21.143 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (624a45d964a598acd4d6caefe49c9e6b)] -> id: password]}
+[INFO ] 2023-12-18 01:30:21.144 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:30:21.212 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:30:21.238 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (624a45d964a598acd4d6caefe49c9e6b)] -> id: login-button]}
+[INFO ] 2023-12-18 01:30:21.238 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (624a45d964a598acd4d6caefe49c9e6b)] -> id: login-button]
+[INFO ] 2023-12-18 01:30:21.298 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (624a45d964a598acd4d6caefe49c9e6b)] -> id: login-button]
+[INFO ] 2023-12-18 01:30:26.331 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (624a45d964a598acd4d6caefe49c9e6b)] -> class name: bot_column]}
+[INFO ] 2023-12-18 01:30:26.705 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:30:29.254 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:30:29.266 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:30:29.279 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:30:29.290 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:30:29.290 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:30:30.267 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:30:30.595 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (0b9b777a442713eb18575b07458e6a72)] -> id: user-name]}
+[INFO ] 2023-12-18 01:30:30.595 [main] WebListener - Keys to send : [problem_user]
+[INFO ] 2023-12-18 01:30:30.761 [main] WebListener - Keys  send : [problem_user]
+[INFO ] 2023-12-18 01:30:30.792 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (0b9b777a442713eb18575b07458e6a72)] -> id: password]}
+[INFO ] 2023-12-18 01:30:30.792 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:30:30.882 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:30:30.909 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (0b9b777a442713eb18575b07458e6a72)] -> id: login-button]}
+[INFO ] 2023-12-18 01:30:30.909 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (0b9b777a442713eb18575b07458e6a72)] -> id: login-button]
+[INFO ] 2023-12-18 01:30:31.314 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (0b9b777a442713eb18575b07458e6a72)] -> id: login-button]
+[ERROR] 2023-12-18 01:30:51.350 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 01:30:51.350 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 01:30:52.066 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:30:54.342 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:30:54.355 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:30:54.367 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:30:54.385 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:30:54.385 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:30:55.597 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:30:55.854 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (9222273e4b5797da1d0176c0e06bf7ad)] -> id: user-name]}
+[INFO ] 2023-12-18 01:30:55.854 [main] WebListener - Keys to send : [performance_glitch_user]
+[INFO ] 2023-12-18 01:30:55.973 [main] WebListener - Keys  send : [performance_glitch_user]
+[INFO ] 2023-12-18 01:30:55.997 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (9222273e4b5797da1d0176c0e06bf7ad)] -> id: password]}
+[INFO ] 2023-12-18 01:30:55.997 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:30:56.079 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:30:56.103 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (9222273e4b5797da1d0176c0e06bf7ad)] -> id: login-button]}
+[INFO ] 2023-12-18 01:30:56.103 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (9222273e4b5797da1d0176c0e06bf7ad)] -> id: login-button]
+[INFO ] 2023-12-18 01:31:08.183 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (9222273e4b5797da1d0176c0e06bf7ad)] -> id: login-button]
+[ERROR] 2023-12-18 01:31:28.228 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 01:31:28.229 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 01:31:28.662 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:33:30.606 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:33:30.635 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:33:30.690 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:33:30.727 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:33:30.728 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:33:31.352 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:33:31.423 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (a0e220fd57ff4c98214f585627a52ab4)] -> id: user-name]}
+[INFO ] 2023-12-18 01:33:31.423 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-12-18 01:33:31.557 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-12-18 01:33:31.593 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (a0e220fd57ff4c98214f585627a52ab4)] -> id: password]}
+[INFO ] 2023-12-18 01:33:31.594 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:33:31.674 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:33:31.721 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (a0e220fd57ff4c98214f585627a52ab4)] -> id: login-button]}
+[INFO ] 2023-12-18 01:33:31.722 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (a0e220fd57ff4c98214f585627a52ab4)] -> id: login-button]
+[INFO ] 2023-12-18 01:33:38.101 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (a0e220fd57ff4c98214f585627a52ab4)] -> id: login-button]
+[ERROR] 2023-12-18 01:33:58.194 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 01:33:58.194 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 01:33:58.769 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:34:00.520 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:34:00.545 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:34:00.566 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:34:00.584 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:34:00.584 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:34:01.567 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:34:01.605 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (44d6ad2d190e33ca87f3739c6d228519)] -> id: user-name]}
+[INFO ] 2023-12-18 01:34:01.605 [main] WebListener - Keys to send : [locked_out_user]
+[INFO ] 2023-12-18 01:34:01.866 [main] WebListener - Keys  send : [locked_out_user]
+[INFO ] 2023-12-18 01:34:01.901 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (44d6ad2d190e33ca87f3739c6d228519)] -> id: password]}
+[INFO ] 2023-12-18 01:34:01.901 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:34:01.986 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:34:02.016 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (44d6ad2d190e33ca87f3739c6d228519)] -> id: login-button]}
+[INFO ] 2023-12-18 01:34:02.016 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (44d6ad2d190e33ca87f3739c6d228519)] -> id: login-button]
+[INFO ] 2023-12-18 01:34:02.136 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (44d6ad2d190e33ca87f3739c6d228519)] -> id: login-button]
+[INFO ] 2023-12-18 01:34:07.447 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (44d6ad2d190e33ca87f3739c6d228519)] -> class name: bot_column]}
+[INFO ] 2023-12-18 01:34:07.685 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:34:09.265 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:34:09.275 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:34:09.287 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:34:09.305 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:34:09.305 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:34:11.475 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:34:11.517 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (0cf0de1869f2429ddf254a2ebb901b46)] -> id: user-name]}
+[INFO ] 2023-12-18 01:34:11.518 [main] WebListener - Keys to send : [problem_user]
+[INFO ] 2023-12-18 01:34:11.619 [main] WebListener - Keys  send : [problem_user]
+[INFO ] 2023-12-18 01:34:11.640 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (0cf0de1869f2429ddf254a2ebb901b46)] -> id: password]}
+[INFO ] 2023-12-18 01:34:11.640 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:34:11.705 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:34:11.730 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (0cf0de1869f2429ddf254a2ebb901b46)] -> id: login-button]}
+[INFO ] 2023-12-18 01:34:11.730 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (0cf0de1869f2429ddf254a2ebb901b46)] -> id: login-button]
+[INFO ] 2023-12-18 01:34:11.990 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (0cf0de1869f2429ddf254a2ebb901b46)] -> id: login-button]
+[ERROR] 2023-12-18 01:34:32.071 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 01:34:32.071 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 01:34:32.508 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:34:34.213 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:34:34.221 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:34:34.232 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:34:34.240 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:34:34.240 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:34:35.568 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:34:35.597 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (d2999c2a686c876a3613cd1e3ce0eae3)] -> id: user-name]}
+[INFO ] 2023-12-18 01:34:35.597 [main] WebListener - Keys to send : [performance_glitch_user]
+[INFO ] 2023-12-18 01:34:35.741 [main] WebListener - Keys  send : [performance_glitch_user]
+[INFO ] 2023-12-18 01:34:35.767 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (d2999c2a686c876a3613cd1e3ce0eae3)] -> id: password]}
+[INFO ] 2023-12-18 01:34:35.767 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:34:35.852 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:34:35.877 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (d2999c2a686c876a3613cd1e3ce0eae3)] -> id: login-button]}
+[INFO ] 2023-12-18 01:34:35.877 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (d2999c2a686c876a3613cd1e3ce0eae3)] -> id: login-button]
+[INFO ] 2023-12-18 01:34:42.838 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (d2999c2a686c876a3613cd1e3ce0eae3)] -> id: login-button]
+[ERROR] 2023-12-18 01:35:02.915 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 01:35:02.915 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 01:35:03.333 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:37:49.951 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:37:49.978 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:37:50.004 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:37:50.025 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:37:50.025 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:37:50.983 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:37:51.053 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (97bfd6ce16d6acb8f486ac062e760518)] -> id: user-name]}
+[INFO ] 2023-12-18 01:37:51.053 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-12-18 01:37:51.185 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-12-18 01:37:51.222 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (97bfd6ce16d6acb8f486ac062e760518)] -> id: password]}
+[INFO ] 2023-12-18 01:37:51.223 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:37:51.305 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:37:51.340 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (97bfd6ce16d6acb8f486ac062e760518)] -> id: login-button]}
+[INFO ] 2023-12-18 01:37:51.342 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (97bfd6ce16d6acb8f486ac062e760518)] -> id: login-button]
+[INFO ] 2023-12-18 01:37:57.433 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (97bfd6ce16d6acb8f486ac062e760518)] -> id: login-button]
+[ERROR] 2023-12-18 01:38:17.473 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 01:38:17.473 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 01:38:17.968 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:38:19.772 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:38:19.791 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:38:19.807 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:38:19.822 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:38:19.822 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:38:22.951 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:38:22.984 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (4614b44bc05acd3fa6ac02d4063d25a7)] -> id: user-name]}
+[INFO ] 2023-12-18 01:38:22.984 [main] WebListener - Keys to send : [locked_out_user]
+[INFO ] 2023-12-18 01:38:23.087 [main] WebListener - Keys  send : [locked_out_user]
+[INFO ] 2023-12-18 01:38:23.118 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (4614b44bc05acd3fa6ac02d4063d25a7)] -> id: password]}
+[INFO ] 2023-12-18 01:38:23.118 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:38:23.190 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:38:23.217 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (4614b44bc05acd3fa6ac02d4063d25a7)] -> id: login-button]}
+[INFO ] 2023-12-18 01:38:23.217 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (4614b44bc05acd3fa6ac02d4063d25a7)] -> id: login-button]
+[INFO ] 2023-12-18 01:38:23.281 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (4614b44bc05acd3fa6ac02d4063d25a7)] -> id: login-button]
+[INFO ] 2023-12-18 01:38:28.311 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (4614b44bc05acd3fa6ac02d4063d25a7)] -> class name: bot_column]}
+[INFO ] 2023-12-18 01:38:28.603 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:38:30.563 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:38:30.573 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:38:30.585 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:38:30.595 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:38:30.595 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:38:31.908 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:38:31.940 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (21aa5888061bc21a94423d7af67489e6)] -> id: user-name]}
+[INFO ] 2023-12-18 01:38:31.940 [main] WebListener - Keys to send : [problem_user]
+[INFO ] 2023-12-18 01:38:32.052 [main] WebListener - Keys  send : [problem_user]
+[INFO ] 2023-12-18 01:38:32.074 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (21aa5888061bc21a94423d7af67489e6)] -> id: password]}
+[INFO ] 2023-12-18 01:38:32.075 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:38:32.151 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:38:32.174 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (21aa5888061bc21a94423d7af67489e6)] -> id: login-button]}
+[INFO ] 2023-12-18 01:38:32.174 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (21aa5888061bc21a94423d7af67489e6)] -> id: login-button]
+[INFO ] 2023-12-18 01:38:32.408 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (21aa5888061bc21a94423d7af67489e6)] -> id: login-button]
+[ERROR] 2023-12-18 01:38:52.451 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 01:38:52.451 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 01:38:52.841 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:38:54.357 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:38:54.366 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:38:54.376 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:38:54.387 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:38:54.387 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:38:56.272 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:38:56.311 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (ff7f84c484dc1e612a8c438506f34dc1)] -> id: user-name]}
+[INFO ] 2023-12-18 01:38:56.312 [main] WebListener - Keys to send : [performance_glitch_user]
+[INFO ] 2023-12-18 01:38:56.688 [main] WebListener - Keys  send : [performance_glitch_user]
+[INFO ] 2023-12-18 01:38:56.718 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (ff7f84c484dc1e612a8c438506f34dc1)] -> id: password]}
+[INFO ] 2023-12-18 01:38:56.718 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:38:56.816 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:38:56.842 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (ff7f84c484dc1e612a8c438506f34dc1)] -> id: login-button]}
+[INFO ] 2023-12-18 01:38:56.842 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (ff7f84c484dc1e612a8c438506f34dc1)] -> id: login-button]
+[ERROR] 2023-12-18 01:39:21.916 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 01:39:21.916 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 01:39:22.319 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:42:56.706 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:42:56.736 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:42:56.765 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:42:56.786 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:42:56.786 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:42:57.404 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:42:57.486 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (372a500e070b91061e9fed0389f123f1)] -> id: user-name]}
+[INFO ] 2023-12-18 01:42:57.487 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-12-18 01:42:57.634 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-12-18 01:42:57.687 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (372a500e070b91061e9fed0389f123f1)] -> id: password]}
+[INFO ] 2023-12-18 01:42:57.688 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:42:57.773 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:42:57.808 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (372a500e070b91061e9fed0389f123f1)] -> id: login-button]}
+[INFO ] 2023-12-18 01:42:57.808 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (372a500e070b91061e9fed0389f123f1)] -> id: login-button]
+[INFO ] 2023-12-18 01:43:06.264 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (372a500e070b91061e9fed0389f123f1)] -> id: login-button]
+[ERROR] 2023-12-18 01:43:26.349 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 01:43:26.349 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 01:43:27.277 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:43:29.259 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:43:29.286 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:43:29.318 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:43:29.335 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:43:29.335 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:43:30.525 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:43:30.564 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (2a006f64d3a86f276ff8ffa7fb3103d9)] -> id: user-name]}
+[INFO ] 2023-12-18 01:43:30.564 [main] WebListener - Keys to send : [locked_out_user]
+[INFO ] 2023-12-18 01:43:30.663 [main] WebListener - Keys  send : [locked_out_user]
+[INFO ] 2023-12-18 01:43:30.686 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (2a006f64d3a86f276ff8ffa7fb3103d9)] -> id: password]}
+[INFO ] 2023-12-18 01:43:30.686 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:43:30.755 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:43:30.780 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (2a006f64d3a86f276ff8ffa7fb3103d9)] -> id: login-button]}
+[INFO ] 2023-12-18 01:43:30.781 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (2a006f64d3a86f276ff8ffa7fb3103d9)] -> id: login-button]
+[INFO ] 2023-12-18 01:43:30.836 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (2a006f64d3a86f276ff8ffa7fb3103d9)] -> id: login-button]
+[INFO ] 2023-12-18 01:43:35.871 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (2a006f64d3a86f276ff8ffa7fb3103d9)] -> class name: bot_column]}
+[INFO ] 2023-12-18 01:43:36.133 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:43:37.773 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:43:37.783 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:43:37.793 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:43:37.803 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:43:37.803 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:43:38.754 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:43:39.004 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (222731e59d01a686e44d618877d7c04d)] -> id: user-name]}
+[INFO ] 2023-12-18 01:43:39.005 [main] WebListener - Keys to send : [problem_user]
+[INFO ] 2023-12-18 01:43:39.107 [main] WebListener - Keys  send : [problem_user]
+[INFO ] 2023-12-18 01:43:39.131 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (222731e59d01a686e44d618877d7c04d)] -> id: password]}
+[INFO ] 2023-12-18 01:43:39.132 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:43:39.203 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:43:39.228 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (222731e59d01a686e44d618877d7c04d)] -> id: login-button]}
+[INFO ] 2023-12-18 01:43:39.228 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (222731e59d01a686e44d618877d7c04d)] -> id: login-button]
+[INFO ] 2023-12-18 01:43:39.460 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (222731e59d01a686e44d618877d7c04d)] -> id: login-button]
+[ERROR] 2023-12-18 01:43:59.503 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 01:43:59.503 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 01:43:59.936 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 01:44:01.506 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 01:44:01.516 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 01:44:01.528 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 01:44:01.541 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 01:44:01.541 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:44:02.719 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 01:44:02.753 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (1b91a89c05c44429f93dc928577c00ff)] -> id: user-name]}
+[INFO ] 2023-12-18 01:44:02.753 [main] WebListener - Keys to send : [performance_glitch_user]
+[INFO ] 2023-12-18 01:44:02.883 [main] WebListener - Keys  send : [performance_glitch_user]
+[INFO ] 2023-12-18 01:44:02.906 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (1b91a89c05c44429f93dc928577c00ff)] -> id: password]}
+[INFO ] 2023-12-18 01:44:02.906 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 01:44:02.991 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 01:44:03.014 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (1b91a89c05c44429f93dc928577c00ff)] -> id: login-button]}
+[INFO ] 2023-12-18 01:44:03.015 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (1b91a89c05c44429f93dc928577c00ff)] -> id: login-button]
+[INFO ] 2023-12-18 01:44:11.603 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (1b91a89c05c44429f93dc928577c00ff)] -> id: login-button]
+[ERROR] 2023-12-18 01:44:31.641 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 01:44:31.641 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 01:44:32.328 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 12:50:58.317 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 12:50:58.356 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 12:50:58.390 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 12:50:58.409 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 12:50:58.409 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:50:59.258 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:50:59.385 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (02042df4b0202b367b92e4dbe25c1132)] -> id: user-name]}
+[INFO ] 2023-12-18 12:50:59.386 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-12-18 12:50:59.521 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-12-18 12:50:59.558 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (02042df4b0202b367b92e4dbe25c1132)] -> id: password]}
+[INFO ] 2023-12-18 12:50:59.558 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 12:50:59.636 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 12:50:59.669 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (02042df4b0202b367b92e4dbe25c1132)] -> id: login-button]}
+[INFO ] 2023-12-18 12:50:59.670 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (02042df4b0202b367b92e4dbe25c1132)] -> id: login-button]
+[INFO ] 2023-12-18 12:51:02.573 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (02042df4b0202b367b92e4dbe25c1132)] -> id: login-button]
+[INFO ] 2023-12-18 12:51:07.679 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (02042df4b0202b367b92e4dbe25c1132)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]}
+[INFO ] 2023-12-18 12:51:07.680 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (02042df4b0202b367b92e4dbe25c1132)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]
+[INFO ] 2023-12-18 12:51:07.824 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (02042df4b0202b367b92e4dbe25c1132)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]
+[INFO ] 2023-12-18 12:51:07.877 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (02042df4b0202b367b92e4dbe25c1132)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]}
+[INFO ] 2023-12-18 12:51:07.953 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (02042df4b0202b367b92e4dbe25c1132)] -> xpath: //div[@id='shopping_cart_container']/descendant::span]}
+[INFO ] 2023-12-18 12:51:08.032 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (02042df4b0202b367b92e4dbe25c1132)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]}
+[INFO ] 2023-12-18 12:51:08.034 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (02042df4b0202b367b92e4dbe25c1132)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]
+[INFO ] 2023-12-18 12:51:08.129 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (02042df4b0202b367b92e4dbe25c1132)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]
+[INFO ] 2023-12-18 12:51:08.164 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (02042df4b0202b367b92e4dbe25c1132)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]}
+[INFO ] 2023-12-18 12:51:10.684 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 12:51:12.706 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 12:51:12.725 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 12:51:12.742 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 12:51:12.759 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 12:51:12.759 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:51:13.424 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:51:13.794 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 12:51:15.685 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 12:51:15.696 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 12:51:15.717 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 12:51:15.750 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 12:51:15.750 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:51:17.419 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:51:17.511 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (c84c86e59bac5d1a72284851e38fe2a8)] -> class name: bot_column]}
+[INFO ] 2023-12-18 12:51:17.890 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 12:51:21.097 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 12:51:21.110 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 12:51:21.125 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 12:51:21.157 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 12:51:21.157 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:51:22.608 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:51:22.643 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (56f9fa17fe5099bc5329ab4885b3d6a6)] -> id: user-name]}
+[INFO ] 2023-12-18 12:51:22.643 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-12-18 12:51:22.796 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-12-18 12:51:22.871 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (56f9fa17fe5099bc5329ab4885b3d6a6)] -> id: password]}
+[INFO ] 2023-12-18 12:51:22.872 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 12:51:23.021 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 12:51:23.067 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (56f9fa17fe5099bc5329ab4885b3d6a6)] -> id: login-button]}
+[INFO ] 2023-12-18 12:51:23.068 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (56f9fa17fe5099bc5329ab4885b3d6a6)] -> id: login-button]
+[INFO ] 2023-12-18 12:51:44.376 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (56f9fa17fe5099bc5329ab4885b3d6a6)] -> id: login-button]
+[ERROR] 2023-12-18 12:52:04.476 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 12:52:04.476 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 12:52:05.198 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 12:52:06.958 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 12:52:06.974 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 12:52:06.985 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 12:52:06.992 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 12:52:06.992 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:52:08.457 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:52:08.485 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (1f4a0ac4b71ba6990cdb7be59d02c986)] -> id: user-name]}
+[INFO ] 2023-12-18 12:52:08.486 [main] WebListener - Keys to send : [locked_out_user]
+[INFO ] 2023-12-18 12:52:08.588 [main] WebListener - Keys  send : [locked_out_user]
+[INFO ] 2023-12-18 12:52:08.610 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (1f4a0ac4b71ba6990cdb7be59d02c986)] -> id: password]}
+[INFO ] 2023-12-18 12:52:08.610 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 12:52:08.687 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 12:52:08.711 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (1f4a0ac4b71ba6990cdb7be59d02c986)] -> id: login-button]}
+[INFO ] 2023-12-18 12:52:08.711 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (1f4a0ac4b71ba6990cdb7be59d02c986)] -> id: login-button]
+[INFO ] 2023-12-18 12:52:08.777 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (1f4a0ac4b71ba6990cdb7be59d02c986)] -> id: login-button]
+[INFO ] 2023-12-18 12:52:13.806 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (1f4a0ac4b71ba6990cdb7be59d02c986)] -> class name: bot_column]}
+[INFO ] 2023-12-18 12:56:10.195 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 12:56:10.238 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 12:56:10.268 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 12:56:10.287 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 12:56:10.288 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:56:11.037 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:56:11.120 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (c4b194e5667ca011641eef0319c5483e)] -> id: user-name]}
+[INFO ] 2023-12-18 12:56:11.121 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-12-18 12:56:11.239 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-12-18 12:56:11.280 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (c4b194e5667ca011641eef0319c5483e)] -> id: password]}
+[INFO ] 2023-12-18 12:56:11.280 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 12:56:11.370 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 12:56:11.405 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (c4b194e5667ca011641eef0319c5483e)] -> id: login-button]}
+[INFO ] 2023-12-18 12:56:11.405 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (c4b194e5667ca011641eef0319c5483e)] -> id: login-button]
+[INFO ] 2023-12-18 12:56:13.710 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (c4b194e5667ca011641eef0319c5483e)] -> id: login-button]
+[INFO ] 2023-12-18 12:56:18.769 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (c4b194e5667ca011641eef0319c5483e)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]}
+[INFO ] 2023-12-18 12:56:18.769 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (c4b194e5667ca011641eef0319c5483e)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]
+[INFO ] 2023-12-18 12:56:18.832 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (c4b194e5667ca011641eef0319c5483e)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]
+[INFO ] 2023-12-18 12:56:18.871 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (c4b194e5667ca011641eef0319c5483e)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]}
+[INFO ] 2023-12-18 12:56:18.945 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (c4b194e5667ca011641eef0319c5483e)] -> xpath: //div[@id='shopping_cart_container']/descendant::span]}
+[INFO ] 2023-12-18 12:56:18.992 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (c4b194e5667ca011641eef0319c5483e)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]}
+[INFO ] 2023-12-18 12:56:18.992 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (c4b194e5667ca011641eef0319c5483e)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]
+[INFO ] 2023-12-18 12:56:19.059 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (c4b194e5667ca011641eef0319c5483e)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]
+[INFO ] 2023-12-18 12:56:19.088 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (c4b194e5667ca011641eef0319c5483e)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]}
+[INFO ] 2023-12-18 12:56:19.392 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 12:56:21.103 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 12:56:21.112 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 12:56:21.125 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 12:56:21.142 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 12:56:21.142 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:56:21.669 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:56:22.146 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 12:56:23.852 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 12:56:23.877 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 12:56:23.904 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 12:56:23.923 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 12:56:23.923 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:56:24.180 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:56:24.504 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (a839d86ef541c5ca832d2c22661b2761)] -> class name: bot_column]}
+[INFO ] 2023-12-18 12:56:24.901 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 12:56:27.700 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 12:56:27.715 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 12:56:27.727 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 12:56:27.744 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 12:56:27.744 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:56:28.670 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:56:29.001 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (4dc9ef19b4abf1fc7ef9e6ea65beed90)] -> id: user-name]}
+[INFO ] 2023-12-18 12:56:29.001 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-12-18 12:56:29.140 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-12-18 12:56:29.166 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (4dc9ef19b4abf1fc7ef9e6ea65beed90)] -> id: password]}
+[INFO ] 2023-12-18 12:56:29.167 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 12:56:29.266 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 12:56:29.292 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (4dc9ef19b4abf1fc7ef9e6ea65beed90)] -> id: login-button]}
+[INFO ] 2023-12-18 12:56:29.292 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (4dc9ef19b4abf1fc7ef9e6ea65beed90)] -> id: login-button]
+[INFO ] 2023-12-18 12:56:33.989 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (4dc9ef19b4abf1fc7ef9e6ea65beed90)] -> id: login-button]
+[ERROR] 2023-12-18 12:56:54.034 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 12:56:54.035 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 12:56:54.804 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 12:56:57.043 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 12:56:57.056 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 12:56:57.067 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 12:56:57.117 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 12:56:57.117 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:56:59.255 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 12:56:59.284 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (25b4ab1001cc446b4aa97731ea10f4ba)] -> id: user-name]}
+[INFO ] 2023-12-18 12:56:59.285 [main] WebListener - Keys to send : [locked_out_user]
+[INFO ] 2023-12-18 12:56:59.391 [main] WebListener - Keys  send : [locked_out_user]
+[INFO ] 2023-12-18 12:56:59.414 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (25b4ab1001cc446b4aa97731ea10f4ba)] -> id: password]}
+[INFO ] 2023-12-18 12:56:59.414 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 12:56:59.488 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 12:56:59.511 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (25b4ab1001cc446b4aa97731ea10f4ba)] -> id: login-button]}
+[INFO ] 2023-12-18 12:56:59.512 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (25b4ab1001cc446b4aa97731ea10f4ba)] -> id: login-button]
+[INFO ] 2023-12-18 12:56:59.576 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (25b4ab1001cc446b4aa97731ea10f4ba)] -> id: login-button]
+[INFO ] 2023-12-18 12:57:04.598 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (25b4ab1001cc446b4aa97731ea10f4ba)] -> class name: bot_column]}
+[INFO ] 2023-12-18 14:01:54.508 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 14:01:54.537 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 14:01:54.568 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 14:01:54.587 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 14:01:54.588 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:01:55.174 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:01:55.259 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (cc17c76062a612c4bb992327bed504b2)] -> id: user-name]}
+[INFO ] 2023-12-18 14:01:55.259 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-12-18 14:01:55.407 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-12-18 14:01:55.445 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (cc17c76062a612c4bb992327bed504b2)] -> id: password]}
+[INFO ] 2023-12-18 14:01:55.446 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 14:01:55.661 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 14:01:55.711 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (cc17c76062a612c4bb992327bed504b2)] -> id: login-button]}
+[INFO ] 2023-12-18 14:01:55.714 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (cc17c76062a612c4bb992327bed504b2)] -> id: login-button]
+[INFO ] 2023-12-18 14:02:04.882 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (cc17c76062a612c4bb992327bed504b2)] -> id: login-button]
+[INFO ] 2023-12-18 14:02:09.951 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (cc17c76062a612c4bb992327bed504b2)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]}
+[INFO ] 2023-12-18 14:02:09.951 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (cc17c76062a612c4bb992327bed504b2)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]
+[INFO ] 2023-12-18 14:02:10.007 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (cc17c76062a612c4bb992327bed504b2)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]
+[INFO ] 2023-12-18 14:02:10.042 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (cc17c76062a612c4bb992327bed504b2)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]}
+[INFO ] 2023-12-18 14:02:10.097 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (cc17c76062a612c4bb992327bed504b2)] -> xpath: //div[@id='shopping_cart_container']/descendant::span]}
+[INFO ] 2023-12-18 14:02:10.134 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (cc17c76062a612c4bb992327bed504b2)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]}
+[INFO ] 2023-12-18 14:02:10.134 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (cc17c76062a612c4bb992327bed504b2)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]
+[INFO ] 2023-12-18 14:02:10.181 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (cc17c76062a612c4bb992327bed504b2)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]
+[INFO ] 2023-12-18 14:02:10.210 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (cc17c76062a612c4bb992327bed504b2)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]}
+[INFO ] 2023-12-18 14:02:10.966 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 14:02:13.214 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 14:02:13.229 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 14:02:13.261 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 14:02:13.284 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 14:02:13.284 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:02:14.079 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:02:14.610 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 14:02:16.575 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 14:02:16.588 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 14:02:16.600 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 14:02:16.615 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 14:02:16.615 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:02:17.779 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:02:17.816 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (2c703489e57e5d1be5b06b6dfe73c13c)] -> class name: bot_column]}
+[INFO ] 2023-12-18 14:02:18.154 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 14:02:21.720 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 14:02:21.734 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 14:02:21.748 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 14:02:21.759 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 14:02:21.759 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:02:24.160 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:02:24.193 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (a2483c58ac69cf056ffbe3a29dad8a57)] -> id: user-name]}
+[INFO ] 2023-12-18 14:02:24.193 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-12-18 14:02:24.308 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-12-18 14:02:24.338 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (a2483c58ac69cf056ffbe3a29dad8a57)] -> id: password]}
+[INFO ] 2023-12-18 14:02:24.339 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 14:02:24.430 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 14:02:24.459 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (a2483c58ac69cf056ffbe3a29dad8a57)] -> id: login-button]}
+[INFO ] 2023-12-18 14:02:24.460 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (a2483c58ac69cf056ffbe3a29dad8a57)] -> id: login-button]
+[INFO ] 2023-12-18 14:02:32.934 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (a2483c58ac69cf056ffbe3a29dad8a57)] -> id: login-button]
+[ERROR] 2023-12-18 14:02:53.062 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 14:02:53.062 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 14:02:53.976 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 14:02:56.148 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 14:02:56.162 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 14:02:56.175 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 14:02:56.188 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 14:02:56.188 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:02:58.684 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:02:58.746 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (e5e959d36b0904802f0b6ce5bce6a1b5)] -> id: user-name]}
+[INFO ] 2023-12-18 14:02:58.747 [main] WebListener - Keys to send : [locked_out_user]
+[INFO ] 2023-12-18 14:02:58.993 [main] WebListener - Keys  send : [locked_out_user]
+[INFO ] 2023-12-18 14:02:59.031 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (e5e959d36b0904802f0b6ce5bce6a1b5)] -> id: password]}
+[INFO ] 2023-12-18 14:02:59.031 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 14:02:59.181 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 14:02:59.229 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (e5e959d36b0904802f0b6ce5bce6a1b5)] -> id: login-button]}
+[INFO ] 2023-12-18 14:02:59.230 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (e5e959d36b0904802f0b6ce5bce6a1b5)] -> id: login-button]
+[INFO ] 2023-12-18 14:02:59.497 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (e5e959d36b0904802f0b6ce5bce6a1b5)] -> id: login-button]
+[INFO ] 2023-12-18 14:03:04.532 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (e5e959d36b0904802f0b6ce5bce6a1b5)] -> class name: bot_column]}
+[INFO ] 2023-12-18 14:09:40.908 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 14:09:40.932 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 14:09:40.960 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 14:09:40.973 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 14:09:40.974 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:09:41.497 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:09:42.382 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (72fd05e3301f6fbf0b6645aefb565653)] -> id: user-name]}
+[INFO ] 2023-12-18 14:09:42.382 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-12-18 14:09:42.487 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-12-18 14:09:42.521 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (72fd05e3301f6fbf0b6645aefb565653)] -> id: password]}
+[INFO ] 2023-12-18 14:09:42.521 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 14:09:42.595 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 14:09:42.626 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (72fd05e3301f6fbf0b6645aefb565653)] -> id: login-button]}
+[INFO ] 2023-12-18 14:09:42.627 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (72fd05e3301f6fbf0b6645aefb565653)] -> id: login-button]
+[INFO ] 2023-12-18 14:10:02.312 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (72fd05e3301f6fbf0b6645aefb565653)] -> id: login-button]
+[INFO ] 2023-12-18 14:10:07.384 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (72fd05e3301f6fbf0b6645aefb565653)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]}
+[INFO ] 2023-12-18 14:10:07.385 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (72fd05e3301f6fbf0b6645aefb565653)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]
+[INFO ] 2023-12-18 14:10:07.512 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (72fd05e3301f6fbf0b6645aefb565653)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]
+[INFO ] 2023-12-18 14:10:07.566 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (72fd05e3301f6fbf0b6645aefb565653)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]}
+[INFO ] 2023-12-18 14:10:07.672 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (72fd05e3301f6fbf0b6645aefb565653)] -> xpath: //div[@id='shopping_cart_container']/descendant::span]}
+[INFO ] 2023-12-18 14:10:07.745 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (72fd05e3301f6fbf0b6645aefb565653)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]}
+[INFO ] 2023-12-18 14:10:07.745 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (72fd05e3301f6fbf0b6645aefb565653)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]
+[INFO ] 2023-12-18 14:10:07.803 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (72fd05e3301f6fbf0b6645aefb565653)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]
+[INFO ] 2023-12-18 14:10:07.851 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (72fd05e3301f6fbf0b6645aefb565653)] -> xpath: //div[contains(text(),'Sauce Labs Backpack')]//..//../following-sibling::div[@class='pricebar']/button]}
+[INFO ] 2023-12-18 14:10:08.251 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 14:10:10.468 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 14:10:10.484 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 14:10:10.501 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 14:10:10.515 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 14:10:10.516 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:10:12.316 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:10:13.392 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 14:10:15.401 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 14:10:15.413 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 14:10:15.426 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 14:10:15.443 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 14:10:15.443 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:10:15.958 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:10:15.998 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (1979a06c9d657fbc9a050daf87cb2977)] -> class name: bot_column]}
+[INFO ] 2023-12-18 14:10:16.351 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 14:10:19.999 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 14:10:20.021 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 14:10:20.033 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 14:10:20.045 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 14:10:20.045 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:10:21.189 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:10:21.230 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (d216300a155803f7d0459949ecd2aefa)] -> id: user-name]}
+[INFO ] 2023-12-18 14:10:21.230 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-12-18 14:10:21.378 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-12-18 14:10:21.424 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (d216300a155803f7d0459949ecd2aefa)] -> id: password]}
+[INFO ] 2023-12-18 14:10:21.425 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 14:10:21.777 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 14:10:21.811 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (d216300a155803f7d0459949ecd2aefa)] -> id: login-button]}
+[INFO ] 2023-12-18 14:10:21.812 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (d216300a155803f7d0459949ecd2aefa)] -> id: login-button]
+[INFO ] 2023-12-18 14:10:38.989 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (d216300a155803f7d0459949ecd2aefa)] -> id: login-button]
+[ERROR] 2023-12-18 14:10:59.097 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 14:10:59.098 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 14:11:00.313 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 14:11:03.423 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 14:11:03.435 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 14:11:03.450 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 14:11:03.461 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 14:11:03.461 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:11:04.550 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:11:04.581 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (9d7f23397d645b3fd760bc24eb839d1c)] -> id: user-name]}
+[INFO ] 2023-12-18 14:11:04.581 [main] WebListener - Keys to send : [locked_out_user]
+[INFO ] 2023-12-18 14:11:04.698 [main] WebListener - Keys  send : [locked_out_user]
+[INFO ] 2023-12-18 14:11:04.724 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (9d7f23397d645b3fd760bc24eb839d1c)] -> id: password]}
+[INFO ] 2023-12-18 14:11:04.724 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 14:11:04.796 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 14:11:04.825 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (9d7f23397d645b3fd760bc24eb839d1c)] -> id: login-button]}
+[INFO ] 2023-12-18 14:11:04.825 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (9d7f23397d645b3fd760bc24eb839d1c)] -> id: login-button]
+[INFO ] 2023-12-18 14:11:04.899 [main] WebListener - Element clicked :[[ChromeDriver: chrome on windows (9d7f23397d645b3fd760bc24eb839d1c)] -> id: login-button]
+[INFO ] 2023-12-18 14:11:09.924 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (9d7f23397d645b3fd760bc24eb839d1c)] -> class name: bot_column]}
+[INFO ] 2023-12-18 14:30:11.698 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 14:30:11.724 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 14:30:11.748 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 14:30:11.763 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 14:30:11.764 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:30:12.000 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:30:12.455 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (b820801711ec9374be304d8ecf29401c)] -> id: user-name]}
+[INFO ] 2023-12-18 14:30:12.455 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-12-18 14:30:12.599 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-12-18 14:30:12.636 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (b820801711ec9374be304d8ecf29401c)] -> id: password]}
+[INFO ] 2023-12-18 14:30:12.637 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 14:30:12.719 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 14:30:12.751 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (b820801711ec9374be304d8ecf29401c)] -> id: login-button]}
+[INFO ] 2023-12-18 14:30:12.751 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (b820801711ec9374be304d8ecf29401c)] -> id: login-button]
+[ERROR] 2023-12-18 14:30:37.911 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 14:30:37.911 [main] WebListener - Screenshot Captured!
+[INFO ] 2023-12-18 14:30:39.075 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 14:30:41.407 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 14:30:41.422 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 14:30:41.445 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 14:30:41.466 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 14:30:41.466 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:30:42.567 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:30:42.864 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 14:30:44.499 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 14:30:44.534 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 14:30:44.560 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 14:30:44.578 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 14:30:44.578 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:30:53.317 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:30:53.359 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (9669dfbfb577b84cc9d665286eabced5)] -> class name: bot_column]}
+[INFO ] 2023-12-18 14:30:53.719 [main] WebListener - ********** Test execution completed!Driver Quited! **********
+[INFO ] 2023-12-18 14:30:56.631 [main] WebListener - Pageload timeout countdown begins!
+[INFO ] 2023-12-18 14:30:56.645 [main] WebListener - Pageload timeout countdown ends!
+[INFO ] 2023-12-18 14:30:56.660 [main] WebListener - Implicit timeout countdown begins!
+[INFO ] 2023-12-18 14:30:56.683 [main] WebListener - Implicit timeout!
+[INFO ] 2023-12-18 14:30:56.685 [main] WebListener - Navigating to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:30:57.207 [main] WebListener - Navigated to : https://www.saucedemo.com/v1/
+[INFO ] 2023-12-18 14:30:57.773 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (8361103addec02a03058392c436ef96f)] -> id: user-name]}
+[INFO ] 2023-12-18 14:30:57.774 [main] WebListener - Keys to send : [standard_user]
+[INFO ] 2023-12-18 14:30:57.889 [main] WebListener - Keys  send : [standard_user]
+[INFO ] 2023-12-18 14:30:57.920 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (8361103addec02a03058392c436ef96f)] -> id: password]}
+[INFO ] 2023-12-18 14:30:57.920 [main] WebListener - Keys to send : [secret_sauce]
+[INFO ] 2023-12-18 14:30:58.016 [main] WebListener - Keys  send : [secret_sauce]
+[INFO ] 2023-12-18 14:30:58.043 [main] WebListener - Element found :Decorated {[[ChromeDriver: chrome on windows (8361103addec02a03058392c436ef96f)] -> id: login-button]}
+[INFO ] 2023-12-18 14:30:58.044 [main] WebListener - Element to be clicked :[[ChromeDriver: chrome on windows (8361103addec02a03058392c436ef96f)] -> id: login-button]
+[ERROR] 2023-12-18 14:31:23.131 [main] WebListener - Exception caught!
+[INFO ] 2023-12-18 14:31:23.131 [main] WebListener - Screenshot Captured!

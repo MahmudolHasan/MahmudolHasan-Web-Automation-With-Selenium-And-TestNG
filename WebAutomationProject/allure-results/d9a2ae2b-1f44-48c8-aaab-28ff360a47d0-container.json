@@ -1,1 +1,0 @@
-{"uuid":"d9a2ae2b-1f44-48c8-aaab-28ff360a47d0","name":"SmokeTEst","children":["3e479f0e-3ded-47fb-b13e-3037daf718ee"],"befores":[],"afters":[{"name":"quiteBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1698005239092,"stop":1698005239283}],"start":1698005229638,"stop":1698005239285}
